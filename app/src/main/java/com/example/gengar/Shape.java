@@ -1,6 +1,6 @@
 package com.example.gengar;
 
-public class Shape {
+abstract class Shape {
     private int x;
     private int y;
 
